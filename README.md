@@ -1,4 +1,4 @@
 Swift-swizzling
 ===============
 
-Method swizzling in Swift example
+Just simple example of method swizzling in Swift, check swizzleEmAll() for details
